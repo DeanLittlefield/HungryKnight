@@ -6,14 +6,15 @@
 * [The IDE Used](#the-ide-used)
 * [Code Breakdown](#code-breakdown)
 * [Boilerplate](#boilerplate)
-* [Calling Int Main](calling-int-main)
-* [Variables for Name and Characteristic](variables-for-name-and-characteristic)
-* [Welcoming the Knight](welcoming-the-knight)
-* [Food Menu](food-menu)
-* [Variables for Food](variables-for-food)
-* [Calculating the Cost](calculating-the-cost)
-* [Results](results)
-* [Final Comments](final-comments)
+* [Calling Int Main](#calling-int-main)
+* [Variables for Name and Characteristic](#variables-for-name-and-characteristic)
+* [Welcoming the Knight](#welcoming-the-knight)
+* [Food Menu](#food-menu)
+* [Variables for Food](#variables-for-food)
+* [Calculating the Cost](#calculating-the-cost)
+* [Results](#results)
+* [Final Comments](#final-comments)
+
 ## Introduction 
 The Hungry Knight program displays food options, along with prices for each item, to the user. The user then selects the items they want. The program will then calculate the total of the items. This is a very simple program and was the first program that i wrote in c++.
 
